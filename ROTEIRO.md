@@ -129,7 +129,7 @@ Passar pelos quatro quadrantes, um por vez:
 
 ---
 
-## ENCERRAMENTO E PERGUNTAS | Letícia, depois todos
+## ENCERRAMENTO E PERGUNTAS | 
 
 ### SLIDE 15: O que levamos do tema
 1. A tupla é um registro leve: campos de tipos diferentes, extraídos por pattern matching.
@@ -140,6 +140,3 @@ Passar pelos quatro quadrantes, um por vez:
 
 ### SLIDE 16: Referências
 
-- Cada integrante deve poder explicar ou alterar qualquer trecho do código se for chamado.
-- Nenhum acento nas mensagens impressas pelo `main` nem em nomes de arquivo.
-- Compilar com `ghc -Wall` e comentar os avisos.

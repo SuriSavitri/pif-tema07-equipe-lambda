@@ -11,11 +11,12 @@ Programação Imperativa e Funcional | CESAR School | 2026.2 | Prof. Roni Maciel
 
 ## SLIDE 1: Capa | Letícia
 
-"Boa tarde! Somos a equipe do Tema 07: tuplas como registros em um boletim escolar."
+"Boa Noite! Somos a equipe do Tema 07: tuplas como registros em um boletim escolar."
 
 ## SLIDE 2: Equipe | Letícia
 
 "Somos a Letícia, o Mateus, a Suri e a Sofia. "
+- "Quem somos e o que cada um fez"
 ---
 ## PARTE 1: INTRODUÇÃO | Letícia
 
@@ -54,7 +55,7 @@ Responder as três perguntas do professor, uma por cartão:
 
 ---
 
-## PARTE 3: DEMONSTRAÇÃO PRÁTICA | 
+## PARTE 3: DEMONSTRAÇÃO PRÁTICA | Letícia e Mateus
 
 > **Regra do professor:** anunciar a entrada e a saída esperada **antes** de executar; chamar a turma para prever; fonte legível.
 
@@ -129,7 +130,7 @@ Passar pelos quatro quadrantes, um por vez:
 
 ---
 
-## ENCERRAMENTO E PERGUNTAS | 
+## ENCERRAMENTO E PERGUNTAS | Letícia
 
 ### SLIDE 15: O que levamos do tema
 1. A tupla é um registro leve: campos de tipos diferentes, extraídos por pattern matching.
